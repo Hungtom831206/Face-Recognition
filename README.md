@@ -7,25 +7,25 @@ As a 公司職員
 I want 確保公司電腦不容易被非本公司員工登入 
 
 So that 我想開發用臉部辨識登入電腦的程式
----
-(二)方法:
 
+(二)方法:
+--
 1.RetinaFace
 
 2.MTCNN
----
+
 (三)步驟:
+--
+Step 1. Face Detection
 
-          Step 1. Face Detection
-
-                  偵測人臉並取得座標值
+偵測人臉並取得座標值
 
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/b8c92bee-8146-47d9-b00e-fcaa24a037a4)
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/a5448cdc-8a40-4909-b35e-1d0c928241cc)
 ---
-          Step 2. Face Alignment
+Step 2. Face Alignment
 
-                  將人臉對齊，也就是將傾斜的人臉轉至端正的角度。
+將人臉對齊，也就是將傾斜的人臉轉至端正的角度。
 
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/874c4224-2532-4924-bf06-2e841f4b4589)
 ---
