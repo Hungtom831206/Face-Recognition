@@ -44,9 +44,9 @@
                   反之則視為同一張臉，比對照片找出最相似的人並判斷差異是否低於門檻
 ---
 ![結果(RetinaFace)](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/8dc2d94e-4956-40ac-96ac-230ca44d008e)
-
+---
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/c6bbe6f4-2101-4620-9f2b-328c0dd00640)
-
+---
 [人臉辨識.pptx](https://github.com/Hungtom831206/Face-Recognition/files/13998048/default.pptx)
 
 [人臉辨識.pdf](https://github.com/Hungtom831206/Face-Recognition/files/13998052/default.pdf)
