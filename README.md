@@ -1,5 +1,3 @@
-[人臉辨識.pdf](https://github.com/Hungtom831206/Face-Recognition/files/13997670/default.pdf)
-
 人臉辨識:
 
 (一)story:
@@ -43,4 +41,5 @@ Step 5. Face Recognition
 
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/c6bbe6f4-2101-4620-9f2b-328c0dd00640)
 
+[人臉辨識.pdf](https://github.com/Hungtom831206/Face-Recognition/files/13997670/default.pdf)
 
