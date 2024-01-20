@@ -20,17 +20,21 @@ Step 1. Face Detection
 
 偵測人臉並取得座標值
 
+
 Step 2. Face Alignment
 
 將人臉對齊，也就是將傾斜的人臉轉至端正的角度。
+
 
 Step 3. Feature extraction
 
 提取人臉特徵 (landmark points)，並進行特徵標準化 (Features Normalization)
 
+
 Step 4. Create Database
 
 創建資料庫並放入照片以供我們後續進行比對
+
 
 Step 5. Face Recognition
 
