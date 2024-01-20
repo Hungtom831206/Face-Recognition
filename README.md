@@ -23,25 +23,19 @@ Step 1. Face Detection
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/b8c92bee-8146-47d9-b00e-fcaa24a037a4)
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/a5448cdc-8a40-4909-b35e-1d0c928241cc)
 
-
-
-
 Step 2. Face Alignment
 
 將人臉對齊，也就是將傾斜的人臉轉至端正的角度。
 
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/874c4224-2532-4924-bf06-2e841f4b4589)
 
-
 Step 3. Feature extraction
 
 提取人臉特徵 (landmark points)，並進行特徵標準化 (Features Normalization)
 
-
 Step 4. Create Database
 
 創建資料庫並放入照片以供我們後續進行比對
-
 
 Step 5. Face Recognition
 
