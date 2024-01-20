@@ -28,6 +28,7 @@ Step 2. Face Alignment
 將人臉對齊，也就是將傾斜的人臉轉至端正的角度。
 
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/874c4224-2532-4924-bf06-2e841f4b4589)
+
 ---
 Step 3. Feature extraction
 
@@ -47,8 +48,10 @@ Step 5. Face Recognition
 
 ---
 ![結果(RetinaFace)](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/8dc2d94e-4956-40ac-96ac-230ca44d008e)
+
 ---
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/c6bbe6f4-2101-4620-9f2b-328c0dd00640)
+
 ---
 [人臉辨識.pptx](https://github.com/Hungtom831206/Face-Recognition/files/13998048/default.pptx)
 
