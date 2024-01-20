@@ -24,6 +24,8 @@ Step 1. Face Detection
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/a5448cdc-8a40-4909-b35e-1d0c928241cc)
 
 
+
+
 Step 2. Face Alignment
 
 將人臉對齊，也就是將傾斜的人臉轉至端正的角度。
