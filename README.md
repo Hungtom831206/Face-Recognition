@@ -19,6 +19,7 @@ So that 我想開發用臉部辨識登入電腦的程式
 Step 1. Face Detection
 
 偵測人臉並取得座標值
+
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/b8c92bee-8146-47d9-b00e-fcaa24a037a4)
 ![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/a5448cdc-8a40-4909-b35e-1d0c928241cc)
 
