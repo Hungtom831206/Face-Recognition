@@ -49,4 +49,5 @@
 
 [人臉辨識.pptx](https://github.com/Hungtom831206/Face-Recognition/files/13998048/default.pptx)
 
+[人臉辨識.pdf](https://github.com/Hungtom831206/Face-Recognition/files/13998052/default.pdf)
 
