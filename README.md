@@ -41,5 +41,6 @@ Step 5. Face Recognition
 
 ![結果(RetinaFace)](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/8dc2d94e-4956-40ac-96ac-230ca44d008e)
 
+![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/c6bbe6f4-2101-4620-9f2b-328c0dd00640)
 
 
