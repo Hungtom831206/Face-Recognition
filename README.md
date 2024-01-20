@@ -2,4 +2,4 @@
 
 
 
-[Uploading 人臉辨識.pptx…]()
+[人臉辨識.pptx]()
