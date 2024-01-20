@@ -2,17 +2,17 @@
 ---
 (一)story:
 
-          As a 公司職員
+As a 公司職員
 
-          I want 確保公司電腦不容易被非本公司員工登入 
+I want 確保公司電腦不容易被非本公司員工登入 
 
-          So that 我想開發用臉部辨識登入電腦的程式
+So that 我想開發用臉部辨識登入電腦的程式
 ---
 (二)方法:
 
-          1.RetinaFace
+1.RetinaFace
 
-          2.MTCNN
+2.MTCNN
 ---
 (三)步驟:
 
