@@ -39,6 +39,7 @@ Step 5. Face Recognition
 將輸入的照片與資料庫中的照片進行比對，使用 L2-Norm(歐幾里得) 計算之間 最佳的距離 (distance)，可視為兩張人臉之 差異程度，給定threshold=1，
 若 distance > threshold ⇒ 不同人臉，反之則視為同一張臉，比對照片找出最相似的人並判斷差異是否低於門檻
 
-![結果(RetinaFace).jpg…]()
+![image](https://github.com/Hungtom831206/Face-Recognition/assets/152977486/5afcfc85-040e-488e-8f89-a472f7298b22)
+
 
 
